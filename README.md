@@ -1,6 +1,6 @@
 ### Hey, I'm Adi :wave:
 
-I'm a 4th year computer science student at the University of Waterloo. I'm currently interning at [Microsoft](https://github.com/microsoft), with the [VSCode](https://github.com/microsoft/vscode) team.
+I'm a 4th year computer science student at the University of Waterloo.
 
 ```typescript
 const me = {
