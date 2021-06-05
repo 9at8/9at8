@@ -1,6 +1,6 @@
 ### Hey, I'm Adi :wave:
 
-I'm a 4th year computer science student at the University of Waterloo.
+CS 2021 @ UWaterloo
 
 ```typescript
 const me = {
